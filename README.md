@@ -7,5 +7,5 @@
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<br></br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjin2118)](https://github.com/eunjin2118/github-readme-stats)
