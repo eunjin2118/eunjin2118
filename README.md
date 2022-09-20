@@ -1,1 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjin2118)](https://github.com/eunjin2118/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjin2118&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=eunjin2118&show_icons=true">
