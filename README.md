@@ -1,6 +1,6 @@
 #
 <div align=center>
-<h3>🔥 Tech Stack 🔥</h3>
+<h3>🔥 Studying 🔥</h3>
 <p><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp;&nbsp;
